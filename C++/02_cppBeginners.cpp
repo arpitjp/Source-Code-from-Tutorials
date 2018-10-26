@@ -1,11 +1,11 @@
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 
 int main()
 {
 
-  cout << "hello world";
+  printf("hello world\n)";
   return 0;
 }
